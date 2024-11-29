@@ -1,3 +1,4 @@
+- 👋 Hi, I’m @nathanielff
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on new project
